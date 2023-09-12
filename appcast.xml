@@ -3,13 +3,29 @@
     <channel>
         <title>Message Decoder</title>
         <item>
+            <title>0.0.16</title>
+            <pubDate>Tue, 12 Sep 2023 16:45:25 -0700</pubDate>
+            <link>https://github.com/zshannon/message-decoder-updates/releases</link>
+            <sparkle:version>0.0.16</sparkle:version>
+            <sparkle:shortVersionString>0.0.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.16/Message-Decoder-0.0.16.zip" length="6780836" type="application/octet-stream" sparkle:edSignature="YrY6EFUTL454cFTVd8RlqUIH4muU9DG+ABgH9BecjkUBmFihWjemSXrEicF6C57BfOOloMWDgGelV9Dyk/v5BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.16/Message%20Decoder0.0.16-0.0.15.delta" sparkle:deltaFrom="0.0.15" length="1064854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="e6VcCdE8Vy3mIqSjncVizPafNULu0z3yxnPSJFnv/1YMYHDk9vFQKXxlY+zNJs03LSIwI+bSsDXyw9swosHzCA=="/>
+                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.16/Message%20Decoder0.0.16-0.0.14.delta" sparkle:deltaFrom="0.0.14" length="1107166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="oM7i+o+UvPO75ExNhsfR+jzzJ2FPYKzF1KhfljDc1oYviwUyBZovpgqa9VUzHPPM+jzfGa7AmENzZ7WUVKHWBw=="/>
+                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.16/Message%20Decoder0.0.16-0.0.13.delta" sparkle:deltaFrom="0.0.13" length="1110038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XTv73LJ50l+hnEwlUScd5LPNl0P74H9scgwmfQqIjSPpm1MIGAHUyhmQoWG2gUuQTGQiqm5tgFFQG5SgsVjVAA=="/>
+                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.16/Message%20Decoder0.0.16-0.0.12.delta" sparkle:deltaFrom="0.0.12" length="1108534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="kYfzEDpdTHkWzC+WNcvcGcN+DrqUneQa+ZrN+tKM9tYaTFzQlfvBTgKX9QJWiZ5gasb8bz0fZUpP90fM0t3aCg=="/>
+                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.16/Message%20Decoder0.0.16-0.0.11.delta" sparkle:deltaFrom="0.0.11" length="2625142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0ZtC5xAWDd0ucuxAh0i0nE23DORBnpke3V2SbRdRUnSI+jGjJ1gXAeJutIERrtWVeorsEy+ZPWCLNQfmMImVDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.0.15</title>
             <pubDate>Sat, 09 Sep 2023 13:00:11 -0700</pubDate>
             <link>https://github.com/zshannon/message-decoder-updates/releases</link>
             <sparkle:version>0.0.15</sparkle:version>
             <sparkle:shortVersionString>0.0.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.15/Message-Decoder-0.0.15.zip" length="6495025" type="application/octet-stream" sparkle:edSignature="1vm7huGDXY8zd7Ul2NrKYHf5cvAhZAkWOvgFdXHhxxgcpyNlDHAFHITbxTaED6hc4DiNGqLlBHd08PYjeP3nCQ=="/>
+            <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.16/Message-Decoder-0.0.15.zip" length="6495025" type="application/octet-stream" sparkle:edSignature="1vm7huGDXY8zd7Ul2NrKYHf5cvAhZAkWOvgFdXHhxxgcpyNlDHAFHITbxTaED6hc4DiNGqLlBHd08PYjeP3nCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.15/Message%20Decoder0.0.15-0.0.14.delta" sparkle:deltaFrom="0.0.14" length="761590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ENXggqW2UhxRjzRHZwtAZ7PmSaOVUxE+GsVZEWiIGErpwd846o+bhiXInNe8hmk7TIPrQ74+wNwoJQyNxR6NBQ=="/>
                 <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.15/Message%20Decoder0.0.15-0.0.13.delta" sparkle:deltaFrom="0.0.13" length="781058" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cZ+ekZi75MR97nyd9PFbrZBmfasSs5BEj/Q9FOHsCLlN+fWSx93y9vtYxtNkYPcRrM6HJckiSQUnJ5TsIoR/BQ=="/>
@@ -25,29 +41,13 @@
             <sparkle:version>0.0.14</sparkle:version>
             <sparkle:shortVersionString>0.0.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.15/Message-Decoder-0.0.14.zip" length="7262890" type="application/octet-stream" sparkle:edSignature="r/pK+hmSEqdJYItctCP2K+kn6RLvfXr+e2oQ7LO1ksrSeZfDBUaa+f87bEdWCvJ26nSiH3T1EY5u9wBJhROGBQ=="/>
+            <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.16/Message-Decoder-0.0.14.zip" length="7262890" type="application/octet-stream" sparkle:edSignature="r/pK+hmSEqdJYItctCP2K+kn6RLvfXr+e2oQ7LO1ksrSeZfDBUaa+f87bEdWCvJ26nSiH3T1EY5u9wBJhROGBQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.14/Message%20Decoder0.0.14-0.0.13.delta" sparkle:deltaFrom="0.0.13" length="557686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="maUx9kcHdsh+4VTJBJrutfimArHOBRy9V7ogCDncRwLL63Or1Sk4Nc/NAh2edqxKdvBl+iUpnBaS2ow/4eyjDg=="/>
                 <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.14/Message%20Decoder0.0.14-0.0.12.delta" sparkle:deltaFrom="0.0.12" length="576902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0/Uwg5FbmhFzUC+uRHtDdYRNrm4CPQYvTQkSFFGmZJOTTh55dicm1rZ6S0vNH9229SQCJdPWIHCEStj4ZFTWDg=="/>
                 <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.14/Message%20Decoder0.0.14-0.0.11.delta" sparkle:deltaFrom="0.0.11" length="2423682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Id1n7rzHnBWJaEVmmNHuEHv0TMzirnj2xpwIATdcrwKdLawzHn5ITH7a11bfukpEVlsWQi6XB0fOadAXq9GBBw=="/>
                 <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.14/Message%20Decoder0.0.14-0.0.10.delta" sparkle:deltaFrom="0.0.10" length="3016650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="0mYjIAxCGJ9JOaZNVDqdiM4zxRnF0XXaZw/0V14t6df9fOaMQucTNvnyu5u+u8W2yQl62/1ePcdm87D30mM/DA=="/>
                 <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.14/Message%20Decoder0.0.14-0.0.9.delta" sparkle:deltaFrom="0.0.9" length="3019030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865136" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="8oPRCrqy+/hg2lWviBeWuByAb9qXlBlktnBDz3WNBjBWWqtaWntdTaUiFGaYnq7od2aIMU8m4qmR4HHX/HxGDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.0.13</title>
-            <pubDate>Tue, 29 Aug 2023 23:52:39 -0700</pubDate>
-            <link>https://github.com/zshannon/message-decoder-updates/releases</link>
-            <sparkle:version>0.0.13</sparkle:version>
-            <sparkle:shortVersionString>0.0.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.15/Message-Decoder-0.0.13.zip" length="7264119" type="application/octet-stream" sparkle:edSignature="+IPOnKODs/Q5hNHh/TyEckycwxDdeUzqsfrJ0qdIvCOEnpHESyaPB6o3hxkOwUMX7VQdTEq7ujOWWJun5+SNDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.13/Message%20Decoder0.0.13-0.0.12.delta" sparkle:deltaFrom="0.0.12" length="422254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Jsex/QNl09fCjvI+jTFkyeJUgqMY+uPoTrUb4fqDouBPLcPSRdGx28u8CfnrWaaOuac2sRQFtWgic8OYoTsFAg=="/>
-                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.13/Message%20Decoder0.0.13-0.0.11.delta" sparkle:deltaFrom="0.0.11" length="2412346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="7oG/2NJSuTJRpvr3TENWAjAP6fErKX6e5jSaTYOCbrPCOwlsg3MgKHAZ9GyE5dqaiyJmaMNOCAkG9ixdv0uPAg=="/>
-                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.13/Message%20Decoder0.0.13-0.0.10.delta" sparkle:deltaFrom="0.0.10" length="3013582" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865008" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="7ZXio3v2/j+9KJfAIjBeXK+IBttMGwox3WnB0WY3pbdgQdRTaw8jymAG+ObrbLXWcDC6vKn4QpNuGeRKUrhZCA=="/>
-                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.13/Message%20Decoder0.0.13-0.0.9.delta" sparkle:deltaFrom="0.0.9" length="3020186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="865136" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="im3w0SrrP+60JKrgki6KGn5NYQnmGWHRomeAXtpNAVXVnHYG/zY2DxcKTEI52vCrudLeTneNhRVKzfecg/HJCg=="/>
-                <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v0.0.13/Message%20Decoder0.0.13-0.0.8.delta" sparkle:deltaFrom="0.0.8" length="3024394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ioRD6kIgDXmqMcdK0DTOppOi+JGCLr9j4tXHaRIS7SicP8QXMiDuB6qtZ97z4ftP/vHC7daTNqgwNxL1pfrKBg=="/>
             </sparkle:deltas>
         </item>
     </channel>
