@@ -3,11 +3,11 @@
     <channel>
         <title>Message Decoder</title>
         <item>
-            <title>1.0.1.0.0</title>
+            <title>1.0.1</title>
             <pubDate>Wed, 20 Sep 2023 23:21:45 -0700</pubDate>
             <link>https://github.com/zshannon/message-decoder-updates/releases</link>
-            <sparkle:version>1.0.1.0.0</sparkle:version>
-            <sparkle:shortVersionString>1.0.1.0.0</sparkle:shortVersionString>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/zshannon/message-decoder-updates/releases/download/v1.0.1/Message-Decoder-1.0.1.zip" length="7261208" type="application/octet-stream" sparkle:edSignature="2znh9NENw4I0rucGf1EwuxOhrgEYZMuiwy7UT4OVR5Q8Z5OP7OORog6rbrLSDgwoZhdrDiH0UHtOEDrkAPUJDA=="/>
             <sparkle:deltas>
